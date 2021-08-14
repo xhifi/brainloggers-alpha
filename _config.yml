@@ -17,8 +17,8 @@ address:
   country: UK
   leftover:
 
-baseurl: "/brainloggers-alpha/" # the subpath of your site, e.g. /blog
-url: "https://xhifi.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://xhifi.github.io/brainloggers-alpha/" # the base hostname & protocol for your site
 
 author:
   youtube:
